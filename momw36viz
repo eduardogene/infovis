@@ -1,0 +1,12 @@
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>mom w36</title>
+</head>
+<body>
+
+  <div class="tableauPlaceholder" id="viz1631370628042" style="position: relative; width: 700px; height: 527px; overflow: hidden; display: block;"><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;mo&#47;mom2021w36&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script><iframe frameborder="0" marginheight="0" marginwidth="0" title="Visualización de datos" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; width: 700px; height: 527px; margin: 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/mom2021w36/Dashboard1?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en-US&amp;publish=yes&amp;:loadOrderID=0"></iframe></div>                <script type="text/javascript">                    var divElement = document.getElementById('viz1631370628042');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='700px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='700px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+  
+
+
+</body></html>
