@@ -1,1 +1,8 @@
 graphical perception 
+visual encodings
+Parallel Coordinates
+Flow Maps
+Choropleth Maps
+Adjacency Diagrams
+The sunburst layout
+Enclosure Diagrams
